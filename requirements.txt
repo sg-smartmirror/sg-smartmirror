@@ -1,0 +1,8 @@
+python 3.9.1
+pyqt5
+pyqt5-tools
+pyqtwebengine
+screeninfo
+setuptools
+geopy
+feedparser
