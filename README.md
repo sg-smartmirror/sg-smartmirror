@@ -13,9 +13,9 @@ The reason for starting this project is due to the lack of use-cases for Singapo
 ### Preview
 ![SG Smart Mirror Preview](./smartmirror1.gif?raw=true)
 
-### Requirement
-You must request an API key from the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/request-for-api.html) in order for the traffic API to work correctly.
-
+### Important Notes
+- You must request an API key from the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/request-for-api.html) in order for the traffic API to work correctly.
+- To change the location for temperature readings, **DELETE** *weather_data.json* first. After that, edit the locations inside *weather_locations.txt* and re-run *Main.py*
 
 ### Current Features
 
