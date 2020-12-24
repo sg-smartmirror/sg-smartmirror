@@ -1,4 +1,3 @@
-### Hi there 👋
 # SG Smart Mirror
 
 Python Powered:
@@ -12,8 +11,8 @@ SG Smart Mirror is a python-based smart mirror built for Singaporeans. It's modu
 The reason for starting this project is due to the lack of use-cases for Singaporean users in the  [MagicMirror²](https://github.com/MichMich/MagicMirror) community. Also, I can't contribute to the MagicMirror² community because I have no experience in web development xD, the libraries and frameworks out there is just too confusing for me.
 
 ### Preview
-[![SmartMirror](https://j.gifs.com/gZwQQj.gif)](https://j.gifs.com/gZwQQj.gif)
-<img src="https://j.gifs.com/gZwQQj.gif" width="1280" height="1024" />
+![SG Smart Mirror Preview](./smartmirror1.gif?raw=true)
+
 ### Requirement
 You must request an API key from the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/request-for-api.html) in order for the traffic API to work correctly.
 
